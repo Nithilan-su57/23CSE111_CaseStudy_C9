@@ -5,7 +5,7 @@
 *   **Nithilan S** (AM.SC.U4CSE25262) - [Identified the classes and helped create uml diagrams]
 *   **Dharun A** (AM.SC.U4CSE25215) - [Helped in creating github repo and proof reading the code]
 *   **Sujeeth S** (AM.SC.U4CSE25253) - [Helped in implementation]
-*   **Nithish Kumar Saravanan** (AM.SC.U4CSE25239) - [Helped in implementation]
+*   **Nithish Kumar Saravanan** (AM.SC.U4CSE25239) - [Developed the user interaction and console interface]
 
 ## Problem Description
 The Gym Membership Management System is a Java-based application designed to manage gym member and trainer information efficiently. It helps store details such as member ID, name, contact information, membership plans, and assigned trainers. The system allows the administrator to add members, assign specialized trainers, generate revenue reports, and remove expired memberships. Furthermore, the system integrates Java standard I/O libraries to enable data persistence, allowing the administrator to save and load member records to and from a local text file seamlessly. This project demonstrates the practical application of Object-Oriented Programming (OOP) concepts, including abstract classes, inheritance, composition, and file handling.
