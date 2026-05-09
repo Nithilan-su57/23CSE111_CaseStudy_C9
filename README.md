@@ -13,7 +13,7 @@ The Gym Membership Management System is a Java-based application designed to man
 ## How to Run the Code
 1. Clone the repository to your local machine.
 2. Open the project in a Java IDE (such as Eclipse, IntelliJ IDEA, or VS Code).
-3. Ensure all Java files in the `/src` folder (`Main.java`, `Person.java`, `Member.java`, `Trainer.java`, `MembershipPlan.java`, `GymManager.java`,`GymOperations`) are placed within the same package (e.g., `package Gym_management_system;`).
+3. Ensure all Java files in the `/src` folder (`Main.java`, `Person.java`, `Member.java`, `Trainer.java`, `MembershipPlan.java`, `GymManager.java`,`GymOperations.java`) are placed within the same package (e.g., `package Gym_management_system;`).
 4. Compile and run the `Main.java` file.
 5. Follow the interactive console menu to navigate the system.
 
