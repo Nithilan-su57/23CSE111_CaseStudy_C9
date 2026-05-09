@@ -60,7 +60,7 @@ public class Main {
                     break;
 
                 case 4:
-                    System.out.println("Enter Trainer ID to view schedule (e.g., T-FatLoss): ");
+                    System.out.println("Enter Trainer ID to view schedule (e.g., Tr-FatLoss): ");
                     String tid = sc.nextLine();
                     Trainer foundTrainer = manager.findTrainerById(tid);
                     if (foundTrainer != null) {
